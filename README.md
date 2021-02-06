@@ -4,4 +4,4 @@
 <p align="center">
 	<img src="https://media.giphy.com/media/l3vR9IG7KlnQEAwTe/giphy.gif" alt="GitHub">
 </p>
-
+<p align="center"><a href="https://some-yummy-react-pizza.netlify.app/>React pizza</a></p>
