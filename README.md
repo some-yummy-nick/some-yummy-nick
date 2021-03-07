@@ -46,6 +46,7 @@
 	Shop: <a href="https://github.com/some-yummy-nick/react-shop">Код</a>
 	<a href="https://yeffasol-shop.netlify.app/">Результат</a>
 </p>
+
 # Vue
 <p>
 	Cryptonomicon: <a href="https://github.com/some-yummy-nick/vue-cryptonomicon">Код</a>
