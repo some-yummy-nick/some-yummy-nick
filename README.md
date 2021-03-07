@@ -7,7 +7,7 @@
 
 # React
 <p>
-	Pizza shop:[Код]("https://github.com/some-yummy-nick/react-pizza"){:target="_blank"}
+	Pizza shop: [Код]("https://github.com/some-yummy-nick/react-pizza" target="_blank")
 	<a href="https://some-yummy-react-pizza.netlify.app/" target="_blank">Результат</a>
 </p>
 <p>
