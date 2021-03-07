@@ -6,6 +6,5 @@
 </p>
 
 # React
-<p align="center">
-	<a href="https://some-yummy-react-pizza.netlify.app/">React pizza</a>
-</p>
+<p><a href="https://some-yummy-react-pizza.netlify.app/">React pizza</a></p>
+<p><a href="https://some-yummy-what-to-watch.netlify.app/">what-to-watch</a></p>
