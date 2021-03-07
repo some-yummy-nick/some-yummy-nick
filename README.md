@@ -6,5 +6,64 @@
 </p>
 
 # React
-<p><a href="https://some-yummy-react-pizza.netlify.app/">React pizza</a></p>
-<p><a href="https://some-yummy-what-to-watch.netlify.app/">what-to-watch</a></p>
+<p>
+	Pizza shop: <a href="https://github.com/some-yummy-nick/react-pizza">Код</a>
+	<a href="https://some-yummy-react-pizza.netlify.app/">Результат</a>
+</p>
+<p>
+	What to watch: <a href="https://github.com/some-yummy-nick/what-to-watch">Код</a>
+	<a href="https://some-yummy-what-to-watch.netlify.app/">Результат</a>
+</p>
+<p>
+	Hackernews client: <a href="https://github.com/some-yummy-nick/hackernews-client">Код</a>
+	<a href="https://some-yummy-hackernews.netlify.com/">Результат</a>
+</p>
+<p>
+	Todo redux: <a href="https://github.com/some-yummy-nick/todo-redux">Код</a>
+	<a href="https://some-yummy-todo-redux.web.app/">Результат</a>
+</p>
+<p>
+	Todo hooks: <a href="https://github.com/some-yummy-nick/todo-hooks">Код</a>
+	<a href="https://some-yummy-todo-hooks.netlify.app/">Результат</a>
+</p>
+<p>
+	Todo typescript: <a href="https://github.com/some-yummy-nick/react-ts-todo">Код</a>
+	<a href="https://some-yummy-react-ts-todo.netlify.app/">Результат</a>
+</p>
+<p>
+	Medium clone: <a href="https://github.com/some-yummy-nick/medium-clone">Код</a>
+	<a href="https://some-yummy-medium-clone.netlify.app/">Результат</a>
+</p>
+<p>
+	Quiz typescript: <a href="https://github.com/some-yummy-nick/react-ts-quiz">Код</a>
+	<a href="https://some-yummy-react-ts-quiz.netlify.app/">Результат</a>
+</p>
+<p>
+	Posts typescript: <a href="https://github.com/some-yummy-nick/react-ts-posts">Код</a>
+	<a href="https://some-yummy-react-ts-posts.netlify.app/">Результат</a>
+</p>
+<p>
+	Shop: <a href="https://github.com/some-yummy-nick/react-shop">Код</a>
+	<a href="https://yeffasol-shop.netlify.app/">Результат</a>
+</p>
+# Vue
+<p>
+	Cryptonomicon: <a href="https://github.com/some-yummy-nick/vue-cryptonomicon">Код</a>
+	<a href="https://some-yummy-cryptonomicon.netlify.app/">Результат</a>
+</p>
+<p>
+	Blog nuxt: <a href="https://github.com/some-yummy-nick/vue-blog-nuxt">Код</a>
+	<a href="https://some-yummy-vue-blog-nuxt.netlify.app/">Результат</a>
+</p>
+<p>
+	Github finder: <a href="https://github.com/some-yummy-nick/vue-github-finder">Код</a>
+	<a href="https://some-yummy-vue-github-finder.netlify.app/">Результат</a>
+</p>
+<p>
+	Library: <a href="https://github.com/some-yummy-nick/vue-library">Код</a>
+	<a href="https://some-yummy-vue-library.netlify.app/">Результат</a>
+</p>
+<p>
+	Store: <a href="https://github.com/some-yummy-nick/vue-store">Код</a>
+	<a href="https://some-yummy-vue-store.netlify.app/">Результат</a>
+</p>
