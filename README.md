@@ -65,6 +65,7 @@
 	Store: <a href="https://github.com/some-yummy-nick/vue-store" target="_blank">Код</a>
 	<a href="https://some-yummy-vue-store.netlify.app/" target="_blank">Результат</a>
 </p>
+
 # Верстка
 <p>	Sp shop: <a href="https://github.com/some-yummy-nick/sp-shop" target="_blank">Код</a>
 	<a href="https://some-yummy-sp-shop.netlify.app/" target="_blank">Результат</a>
