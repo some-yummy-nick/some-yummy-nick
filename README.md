@@ -65,3 +65,15 @@
 	Store: <a href="https://github.com/some-yummy-nick/vue-store" target="_blank">Код</a>
 	<a href="https://some-yummy-vue-store.netlify.app/" target="_blank">Результат</a>
 </p>
+# Верстка
+<p>	Sp shop: <a href="https://github.com/some-yummy-nick/sp-shop" target="_blank">Код</a>
+	<a href="https://some-yummy-sp-shop.netlify.app/" target="_blank">Результат</a>
+</p>
+<p>
+	Batat: <a href="https://github.com/some-yummy-nick/batat" target="_blank">Код</a>
+	<a href="https://some-yummy-batat.netlify.app/" target="_blank">Результат</a>
+</p>
+<p>
+	Landing page ozon: <a href="https://github.com/some-yummy-nick/lp-ozon" target="_blank">Код</a>
+	<a href="https://some-yummy-lp-ozon.netlify.app/" target="_blank">Результат</a>
+</p>
