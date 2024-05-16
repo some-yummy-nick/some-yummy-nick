@@ -65,7 +65,18 @@
 	Store: <a href="https://github.com/some-yummy-nick/vue-store" target="_blank">Код</a>
 	<a href="https://some-yummy-vue-store.netlify.app/" target="_blank">Результат</a>
 </p>
-
+<p>
+	User list: <a href="https://github.com/some-yummy-nick/vue-user-list" target="_blank">Код</a>
+	<a href="https://some-yummy-vue-user-list.netlify.app/" target="_blank">Результат</a>
+</p>
+<p>
+	Documents: <a href="https://github.com/some-yummy-nick/vue-documents" target="_blank">Код</a>
+	<a href="https://some-yummy-documents.onrender.com/" target="_blank">Результат</a>
+</p>
+<p>
+	Coworkers: <a href="https://github.com/some-yummy-nick/vue-coworkers" target="_blank">Код</a>
+	<a href="https://some-yummy-coworkers.onrender.com/" target="_blank">Результат</a>
+</p>
 # Верстка
 <p>	Sp shop: <a href="https://github.com/some-yummy-nick/sp-shop" target="_blank">Код</a>
 	<a href="https://some-yummy-sp-shop.netlify.app/" target="_blank">Результат</a>
